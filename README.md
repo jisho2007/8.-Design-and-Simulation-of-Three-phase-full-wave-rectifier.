@@ -43,7 +43,8 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
-
+<img width="1629" height="739" alt="Image" src="https://github.com/user-attachments/assets/70d73366-6f3a-4f75-9781-b0c00884cbb7" />
 ## Output
-
+<img width="1882" height="953" alt="Image" src="https://github.com/user-attachments/assets/6d6d3f4a-db01-4cb8-a996-3ff5f1aed671" />
 ## Result
+Thus the experiment was simulated and output was verified succesfully
