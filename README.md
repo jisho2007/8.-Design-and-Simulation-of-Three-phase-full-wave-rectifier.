@@ -9,6 +9,7 @@ To design, simulate and analyse a Three phase full wave rectifier controlled by 
 
 Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Library  browser. 
 
+
 2.	Click on NEW MODEL or go to FILE ⇒ NEW ⇒ MODEL and a new blank model is created as shown below
  <img width="572" height="382" alt="image" src="https://github.com/user-attachments/assets/25522ebb-6b03-4922-994a-4f023304a07b" />
 
